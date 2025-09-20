@@ -21,4 +21,6 @@ def decimal_to_binary_converter():
 
     while temp_num > 0:
         
+
         remainder = temp_num % 2
+    decimal_to_binary_converter()
